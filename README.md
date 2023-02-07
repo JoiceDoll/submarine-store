@@ -1,6 +1,6 @@
 Submarine Store
 
-#Dependencies:<br>
+# Dependencies:<br>
 react-router-dom<br>
 styled-components<br>
 yarn
